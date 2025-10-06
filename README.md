@@ -10,16 +10,16 @@ Here’s a **professional, ready-to-upload `README.md`** file that clearly expla
 ## 🧠 **README.md**
 
 ````markdown
-# 🔬 Prostate Cancer MRI Classification App
+🔬 Prostate Cancer MRI Classification App
 
 This Streamlit-based web application uses **Deep Learning** to classify prostate MRI scans as either **Normal** or **Suspicious**.  
 It leverages a pre-trained **TensorFlow model** to assist radiologists and researchers in identifying potential signs of prostate cancer in MRI images.
 
-> ⚠️ **Disclaimer:** This tool is for **educational and research purposes only**. It should **not** be used as a substitute for professional medical diagnosis.
+> ⚠️ Disclaimer: This tool is for **educational and research purposes only**. It should **not** be used as a substitute for professional medical diagnosis.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - 🧠 **AI-Powered MRI Classification** using a TensorFlow deep learning model  
 - 📤 **Upload MRI Scans** in DICOM, JPG, or PNG format  
@@ -29,7 +29,7 @@ It leverages a pre-trained **TensorFlow model** to assist radiologists and resea
 
 ---
 
-## 🧩 Tech Stack
+🧩 Tech Stack
 
 | Component        | Technology |
 |------------------|-------------|
@@ -41,15 +41,15 @@ It leverages a pre-trained **TensorFlow model** to assist radiologists and resea
 
 ---
 
-## 📦 Installation Guide
+📦 Installation Guide
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/<your-username>/prostate-cancer-classifier.git
 cd prostate-cancer-classifier
 ````
 
-### 2️⃣ Create a virtual environment (recommended)
+2️⃣ Create a virtual environment (recommended)
 
 ```bash
 python -m venv venv
@@ -63,7 +63,7 @@ venv\Scripts\activate      # For Windows
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the app
+4️⃣ Run the app
 
 ```bash
 streamlit run app.py
@@ -73,7 +73,7 @@ streamlit run app.py
 
 ---
 
-## 📋 Requirements
+📋 Requirements
 
 Ensure your `requirements.txt` contains:
 
@@ -88,7 +88,7 @@ protobuf==3.20.*
 
 ---
 
-## 🧠 Model Information
+🧠 Model Information
 
 * The model file: `prostate_cancer_classification_model.h5`
 * Framework: TensorFlow / Keras
@@ -103,7 +103,7 @@ If you don’t have the model, you can train your own using prostate MRI dataset
 
 ---
 
-## 📸 App Preview
+📸 App Preview
 
 | Upload MRI                                                             | Get Prediction                                                                    |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -111,7 +111,7 @@ If you don’t have the model, you can train your own using prostate MRI dataset
 
 ---
 
-## ⚙️ Future Enhancements
+⚙️ Future Enhancements
 
 * ✅ Integrate Grad-CAM for model interpretability
 * ✅ Add multi-class tumor grading (e.g., Gleason score prediction)
@@ -120,7 +120,7 @@ If you don’t have the model, you can train your own using prostate MRI dataset
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 
 **Nyasha M. Chibindi**
 🎓 BSc (Hons) Data Science and Informatics – University of Zimbabwe
@@ -129,14 +129,14 @@ If you don’t have the model, you can train your own using prostate MRI dataset
 
 ---
 
-## 🩺 Disclaimer
+🩺 Disclaimer
 
 This AI tool is **not intended for clinical use**.
 Always consult a certified medical professional for any diagnosis or treatment.
 
 ---
 
-### ⭐ If you like this project, please **star the repo** to show your support!
+⭐ If you like this project, please **star the repo** to show your support!
 
 ```
 
