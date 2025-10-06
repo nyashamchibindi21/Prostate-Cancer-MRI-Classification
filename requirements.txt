@@ -1,0 +1,6 @@
+streamlit
+numpy
+tensorflow
+pydicom
+pillow
+protobuf==3.20.*
