@@ -1,6 +1,6 @@
-streamlit==1.38.0
-numpy==1.26.4
-pydicom==2.4.3
-pillow==10.3.0
-tensorflow-cpu==2.13.0
+streamlit
+numpy
+pydicom
+pillow
 protobuf==3.20.*
+tensorflow-cpu==2.13.0
