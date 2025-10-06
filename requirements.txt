@@ -1,6 +1,6 @@
 streamlit
 numpy
-tensorflow==2.13.0
+tensorflow==2.20.0
 pydicom
 pillow
 protobuf==3.20.*
