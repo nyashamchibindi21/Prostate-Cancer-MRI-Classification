@@ -107,7 +107,7 @@ If you don’t have the model, you can train your own using prostate MRI dataset
 
 | Upload MRI                                                             | Get Prediction                                                                    |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![Upload Example](https://via.placeholder.com/350x200?text=Upload+MRI) | ![Prediction Example](https://via.placeholder.com/350x200?text=Prediction+Result) |
+| ![Upload Example](upload_example.png) | ![Prediction Example](prediction_result.png) |
 
 ---
 
