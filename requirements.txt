@@ -1,6 +1,7 @@
 streamlit
 numpy
 tensorflow==2.15.0
+keras==2.15.0
 pydicom
 pillow
-gdown
+protobuf==3.20.*
