@@ -1,5 +1,6 @@
 streamlit
 numpy
-tensorflow==2.20.0
+tensorflow==2.15.0
 pydicom
 pillow
+gdown
